@@ -1,5 +1,17 @@
-## Hi there 👋
-
+## Всем привет 👋
+<div id="header" align="left">
+<p>  
+<img src="https://avatars.mds.yandex.net/get-yapic/38663/bDlljZTVnAKGymAAuhKclAplIaU-1/islands-retina-50" width="100" height="100" alt="Lynx" align="left" vspace="5" hspace="5">
+Тут я буду выкладывать мои тестовые проекты.<br>
+Микроконтроллер STM32F103RB.<br>
+Редактор VScode.<br>
+IDE PlatformIO.<br>
+Использую библиотеку CMSIS.<br>
+</p>
+<hr>
+<p>
+</p>
+</div>
 <!--
 **p0etlynx-git/p0etlynx-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
