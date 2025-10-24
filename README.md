@@ -3,7 +3,7 @@
 <p>  
 <img src="https://avatars.mds.yandex.net/get-yapic/38663/bDlljZTVnAKGymAAuhKclAplIaU-1/islands-retina-50" width="100" height="100" alt="Lynx" align="left" vspace="5" hspace="5">
 Тут я буду выкладывать мои тестовые проекты.<br>
-Микроконтроллер STM32F103RB.<br>
+Микроконтроллеры STM32F103RB, STM32F405RGT6.<br>
 Редактор VScode.<br>
 IDE PlatformIO.<br>
 Использую библиотеку CMSIS.<br>
